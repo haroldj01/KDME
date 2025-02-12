@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBefvep4-YkHSZ4B7p0aGJ91CKVvk-kJl8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>739383320583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kdmadeeasy</string>
+	<key>PROJECT_ID</key>
+	<string>kdmadeeasy-7b474</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kdmadeeasy-7b474.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:739383320583:ios:51e1b36ddedc4a0ee94aa2</string>
+</dict>
+</plist>
